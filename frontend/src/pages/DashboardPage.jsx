@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 
 import AnalyticsDashboard from "@/components/AnalyticsDashboard";
+import FollowUpModal from "@/components/FollowUpModal";
 import FollowUpPanel from "@/components/FollowUpPanel";
 import LeadForm from "@/components/LeadForm";
 import LeadTable from "@/components/LeadTable";
@@ -28,6 +29,8 @@ function DashboardPage() {
   const [deletingLeadId, setDeletingLeadId] = useState(null);
   const [pageError, setPageError] = useState("");
   const [formError, setFormError] = useState("");
+  const [isFollowUpOpen, setIsFollowUpOpen] = useState(false);
+  const [selectedFollowUpLead, setSelectedFollowUpLead] = useState(null);
 
   useEffect(() => {
     const loadDashboardData = async () => {
@@ -128,6 +131,16 @@ function DashboardPage() {
     }
   };
 
+  const handleFollowUp = (lead) => {
+    setSelectedFollowUpLead(lead);
+    setIsFollowUpOpen(true);
+  };
+
+  const closeFollowUpModal = () => {
+    setIsFollowUpOpen(false);
+    setSelectedFollowUpLead(null);
+  };
+
   return (
     <section className="space-y-6">
       <div className="rounded-3xl border border-slate-200 bg-white p-8 shadow-soft">
@@ -169,6 +182,7 @@ function DashboardPage() {
           leads={leads}
           onEdit={handleEdit}
           onDelete={handleDelete}
+          onFollowUp={handleFollowUp}
           deletingLeadId={deletingLeadId}
           isLoading={isLoading}
         />
@@ -186,6 +200,8 @@ function DashboardPage() {
           {selectedLead ? <FollowUpPanel lead={selectedLead} /> : null}
         </div>
       </div>
+
+      <FollowUpModal isOpen={isFollowUpOpen} lead={selectedFollowUpLead} onClose={closeFollowUpModal} />
     </section>
   );
 }

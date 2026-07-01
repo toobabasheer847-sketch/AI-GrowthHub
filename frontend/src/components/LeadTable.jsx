@@ -1,6 +1,6 @@
 import { formatLeadValue, getLeadStatusClasses } from "@/utils/leads";
 
-function LeadTable({ leads, onEdit, onDelete, deletingLeadId, isLoading }) {
+function LeadTable({ leads, onEdit, onDelete, onFollowUp, deletingLeadId, isLoading }) {
   if (isLoading) {
     return (
       <div className="rounded-3xl border border-slate-200 bg-white p-8 text-sm text-slate-500 shadow-soft">
@@ -61,6 +61,13 @@ function LeadTable({ leads, onEdit, onDelete, deletingLeadId, isLoading }) {
                   </td>
                   <td className="px-6 py-4">
                     <div className="flex justify-end gap-3">
+                      <button
+                        type="button"
+                        onClick={() => onFollowUp(lead)}
+                        className="rounded-full border border-brand-200 bg-brand-50 px-4 py-2 text-sm font-medium text-brand-700 transition hover:bg-brand-100"
+                      >
+                        Follow-up
+                      </button>
                       <button
                         type="button"
                         onClick={() => onEdit(lead)}
