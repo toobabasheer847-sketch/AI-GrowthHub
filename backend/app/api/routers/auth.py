@@ -17,11 +17,12 @@ def register(payload: RegisterRequest, db: Session = Depends(get_db)):
         raise HTTPException(status_code=status.HTTP_409_CONFLICT, detail="An account with this email already exists.")
 
     is_first_user = db.execute(select(func.count(User.id))).scalar_one() == 0
+    role = UserRole.ADMIN if is_first_user else UserRole.USER
     user = User(
         name=payload.name,
         email=payload.email,
         password_hash=get_password_hash(payload.password),
-        role=UserRole.ADMIN if is_first_user else UserRole.USER,
+        role=role,
     )
     db.add(user)
     db.commit()

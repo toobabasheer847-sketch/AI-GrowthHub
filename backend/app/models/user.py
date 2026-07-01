@@ -20,6 +20,7 @@ if TYPE_CHECKING:
 class UserRole(str, Enum):
     ADMIN = "admin"
     EDITOR = "editor"
+    USER = "user"
     VIEWER = "viewer"
 
 
