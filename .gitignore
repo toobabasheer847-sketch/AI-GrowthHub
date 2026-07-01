@@ -1,0 +1,11 @@
+﻿.venv/
+venv/
+frontend/node_modules/
+node_modules/
+.uploads/
+.vscode/
+.trae/
+backend/__pycache__/
+backend/.env
+frontend/.env
+*.env

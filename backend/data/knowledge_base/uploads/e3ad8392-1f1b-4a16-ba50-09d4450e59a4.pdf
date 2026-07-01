@@ -1,0 +1,1064 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6690
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 802.2049606299212883 Td
+(Veridical AI — Contract Analysis Report) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+39.6850393700787407 773.8585039370078675 Td
+(File: prof-services-agrmt.pdf) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+39.6850393700787407 757.7010236220472734 Td
+(Version: 1) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+39.6850393700787407 741.5435433070865656 Td
+(Exported: 05/06/2026, 19:12:38) Tj
+ET
+0.95 0.96 0.98 rg
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+45.354330708661422 714.0474803149605805 m
+549.9256692913385223 714.0474803149605805 l
+553.056732439985467 714.0474803149605805 555.5949606299211609 711.5092521250248865 555.5949606299211609 708.3781889763779418 c
+555.5949606299211609 640.346692913385823 l
+555.5949606299211609 637.2156297647387646 552.4638974812742163 634.6774015748030706 549.9256692913385223 634.6774015748030706 c
+45.354330708661422 634.6774015748030706 l
+42.2232675600144063 634.6774015748030706 39.6850393700787407 637.8084647234502427 39.6850393700787407 640.346692913385823 c
+39.6850393700787407 708.3781889763779418 l
+39.6850393700787407 711.5092521250248865 42.8161025187257636 714.0474803149605805 45.354330708661422 714.0474803149605805 c
+h
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 691.3703149606299121 Td
+(VIOLATIONS) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.192 0.18 0.506 rg
+56.6929133858267775 671.5277952755905062 Td
+(2) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+314.6478740157480161 691.3703149606299121 Td
+(RISKS) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.192 0.18 0.506 rg
+314.6478740157480161 671.5277952755905062 Td
+(3) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 660.1892125984252289 Td
+(ANOMALIES) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.192 0.18 0.506 rg
+56.6929133858267775 640.346692913385823 Td
+(6) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+314.6478740157480161 660.1892125984252289 Td
+(REDLINE RECOMMENDATIONS) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.192 0.18 0.506 rg
+314.6478740157480161 640.346692913385823 Td
+(5) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 594.9923622047243725 Td
+(Policy Violations) Tj
+ET
+0.8 0.84 0.88 RG
+0.8503937007874016 w
+39.6850393700787407 572.3151968503937042 m
+555.5949606299211609 572.3151968503937042 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 555.3073228346456744 Td
+(Clause 72 — Minimum Liability Cap) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 539.7167716535432191 Td
+(Severity: Critical) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 525.5435433070865656 Td
+(Description: Violation — The clause does not specify a minimum liability cap of $1M, which is required by the policy.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 496.4033858267716255 m
+555.5949606299211609 496.4033858267716255 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 482.2301574803149151 Td
+(Clause 28 — Non-Compete Duration Limit) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 466.6396062992125735 Td
+(Severity: Medium) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 452.4663779527558631 Td
+(Description: Violation — The contract does not mention any non-compete duration, which may imply a duration exceeding the) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 437.4994488188975765 Td
+(2-year limit set by the policy.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 408.3592913385826364 m
+555.5949606299211609 408.3592913385826364 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 382.8474803149605918 Td
+(Risk Findings) Tj
+ET
+0.8 0.84 0.88 RG
+0.8503937007874016 w
+39.6850393700787407 360.1703149606298666 m
+555.5949606299211609 360.1703149606298666 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 343.1624409448818369 Td
+(Clause 28 — Termination for Convenience and for Cause) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 327.5718897637794953 Td
+(Severity: Medium) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 313.3986614173227281 Td
+(Description: Termination for Convenience and for Cause — The ability for Cornell to terminate the agreement without cause with) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 298.4317322834644983 Td
+(30 days' notice poses a medium risk to the Consultant, as it may lead to sudden loss of income without sufficient time to adjust.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 269.2915748031495013 m
+555.5949606299211609 269.2915748031495013 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 255.1183464566928478 Td
+(Clause 31 — Indemnification Clause) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 239.5277952755905062 Td
+(Severity: High) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 225.354566929133739 Td
+(Description: Indemnification Clause — The Consultant is required to indemnify Cornell for all claims arising from the Services,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 210.3876377952755092 Td
+(which poses a high risk as it could lead to significant financial liability for the Consultant.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 181.2474803149605407 m
+555.5949606299211609 181.2474803149605407 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 167.0742519685038587 Td
+(Clause 5 — Compensation Cap) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 151.4837007874015171 Td
+(Severity: Medium) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 137.3104724409447499 Td
+(Description: Compensation Cap — The total amount payable by Cornell is capped, which limits the Consultant's potential earnings) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 122.3435433070865201 Td
+(but also protects Cornell from excessive claims. This presents a medium risk as it may not cover all potential liabilities.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 93.2033858267715374 m
+555.5949606299211609 93.2033858267715374 l
+S
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 6997
+>>
+stream
+0.4251968503937008 w
+0.8 0.84 0.88 RG
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 790.8663779527558972 Td
+(Anomalies) Tj
+ET
+0.8 0.84 0.88 RG
+0.8503937007874016 w
+39.6850393700787407 768.1892125984251152 m
+555.5949606299211609 768.1892125984251152 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 751.1813385826771992 Td
+(Clause 10 — One-sided terms) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 735.5907874015747439 Td
+(Confidence: High) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 721.4175590551180903 Td
+(Description: Consultant relinquishes all claims against Cornell for tax withholdings — This clause places the burden solely on the) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 706.4506299212598606 Td
+(Consultant to accept any tax withholding without recourse, which is unusual as typically both parties share responsibility for tax) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 691.4837007874015171 Td
+(compliance.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 662.3435433070865201 m
+555.5949606299211609 662.3435433070865201 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 648.1703149606298666 Td
+(Clause 28 — Termination for convenience) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 632.579763779527525 Td
+(Confidence: Medium) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 618.4065354330707578 Td
+(Description: Cornell can terminate without cause with 30 days' notice — While termination for convenience is common, the) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 603.439606299212528 Td
+(unilateral right of one party \(Cornell\) to terminate without cause can be seen as one-sided, especially if the Consultant has) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 588.4726771653542983 Td
+(invested significant resources.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 559.3325196850393013 m
+555.5949606299211609 559.3325196850393013 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 545.1592913385825341 Td
+(Clause 30 — Waiver of rights) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 529.5687401574803062 Td
+(Confidence: High) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 515.3955118110235389 Td
+(Description: Consultant waives rights to additional compensation upon termination — This clause is unusual as it waives the) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 500.4285826771653092 Td
+(Consultant's right to claim compensation for work done prior to termination, which is not standard in many agreements.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 471.2884251968503122 m
+555.5949606299211609 471.2884251968503122 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 457.1151968503936018 Td
+(Clause 15 — Access rights) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 441.5246456692912602 Td
+(Confidence: Medium) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 427.3514173228345499 Td
+(Description: Cornell has extensive rights to access Consultant's data — The clause grants Cornell broad rights to access and) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 412.3844881889762632 Td
+(copy data, which may be excessive compared to standard access rights typically granted in similar agreements.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 383.2443307086613231 m
+555.5949606299211609 383.2443307086613231 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 369.0711023622046127 Td
+(Clause 11 — Confidentiality obligations) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 353.4805511811022711 Td
+(Confidence: Medium) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 339.3073228346455608 Td
+(Description: Consultant's confidentiality obligations are extensive — The obligations placed on the Consultant regarding) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 324.340393700787331 Td
+(confidentiality are quite broad and may not be reciprocated, which is unusual in balanced agreements.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 295.200236220472334 m
+555.5949606299211609 295.200236220472334 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 281.0270078740156805 Td
+(Clause 35 — Insurance requirements) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 265.4364566929132252 Td
+(Confidence: Medium) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 251.2632283464565717 Td
+(Description: Consultant must carry extensive insurance with Cornell as additional insured — The requirement for the Consultant to) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 236.2962992125983419 Td
+(carry specific insurance types and include Cornell as an additional insured is common, but the extent of coverage and specific) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 221.3293700787399985 Td
+(requirements may be more stringent than typical agreements.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 192.1892125984250583 m
+555.5949606299211609 192.1892125984250583 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 166.6774015748030706 Td
+(Negotiation Recommendations) Tj
+ET
+0.8 0.84 0.88 RG
+0.8503937007874016 w
+39.6850393700787407 144.0002362204722886 m
+555.5949606299211609 144.0002362204722886 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 126.9923622047242588 Td
+(Clause 15 — risk) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 111.4018110236218035 Td
+(Priority: High) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 97.22858267716515 Td
+(Description: This redline limits the tenant's liability to situations where they are at fault, protecting them from being held) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 82.2616535433069203 Td
+(responsible for claims arising from Cornell's own negligence or misconduct.) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 64.460078740157428 Td
+(Suggested Redline: Consultant shall release, defend, indemnify, and hold harmless Cornell and its trustees, officers, agents, and) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 6392
+>>
+stream
+0.8503937007874016 w
+0.8 0.84 0.88 RG
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 802.2049606299212883 Td
+(employees from all liability, suits, actions, or claims of any character, name, or description including reasonable attorneys’ fees,) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 787.2380314960629448 Td
+(brought on account of any injuries or damage, or loss \(real or alleged\) received or sustained by any person, persons, or property,) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 772.2711023622047151 Td
+(arising out of the Services or any other work provided under this Agreement, except to the extent caused by the negligence or) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 757.3041732283463716 Td
+(willful misconduct of Cornell.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 728.1640157480314883 m
+555.5949606299211609 728.1640157480314883 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 713.9907874015747211 Td
+(Clause 28 — risk) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 698.4002362204723795 Td
+(Priority: Medium) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 684.227007874015726 Td
+(Description: This adjustment provides the Consultant with a more balanced termination right, allowing them to exit the agreement) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 669.2600787401574962 Td
+(with reasonable notice, which is important for managing business risks.) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 651.4585039370078903 Td
+(Suggested Redline: Consultant may terminate this Agreement at any time without cause upon thirty \(30\) days’ written notice to) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 636.4915748031495468 Td
+(Cornell. Cornell may terminate this Agreement without cause upon sixty \(60\) days’ written notice to Consultant.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 607.3514173228345499 m
+555.5949606299211609 607.3514173228345499 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 593.1781889763778963 Td
+(Clause 35 — anomaly) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 577.587637795275441 Td
+(Priority: Medium) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 563.4144094488187875 Td
+(Description: This redline allows for more flexibility in the event of business changes, such as mergers or acquisitions, while still) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 548.4474803149605577 Td
+(requiring Cornell's consent for other assignments, which protects their interests.) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 530.6459055118109518 Td
+(Suggested Redline: Consultant may not assign, transfer, or delegate any of or all of its rights or obligations under this Agreement) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 515.678976377952722 Td
+(without the express prior written permission of Cornell, except that Consultant may assign this Agreement to an affiliate or in) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 500.7120472440943786 Td
+(connection with a merger or sale of all or substantially all of its assets without such consent.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 471.5718897637794385 m
+555.5949606299211609 471.5718897637794385 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 457.3986614173227281 Td
+(Clause 16 — risk) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 441.8081102362203865 Td
+(Priority: High) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 427.6348818897636761 Td
+(Description: This change ensures that the insurance coverage aligns with the tenant's requirement for a minimum liability cap,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 412.6679527559053895 Td
+(protecting them from excessive liability exposure.) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 394.8663779527557836 Td
+(Suggested Redline: Consultant shall procure and carry insurance to financially support indemnification of Cornell as provided) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 379.8994488188974969 Td
+(herein, and shall provide certificates of such insurance, upon request. Consultant's liability insurance shall have a minimum) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 364.9325196850392672 Td
+(coverage limit of $1,000,000 per occurrence and $2,000,000 in the aggregate.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 335.7923622047242702 m
+555.5949606299211609 335.7923622047242702 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+39.6850393700787407 321.6191338582675598 Td
+(Clause 13 — violation) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.192 0.18 0.506 rg
+39.6850393700787407 306.0285826771652182 Td
+(Priority: High) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 291.8553543307085647 Td
+(Description: This redline clarifies the conditions under which Cornell Data can be used, ensuring that the tenant's data privacy and) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+39.6850393700787407 276.8884251968502213 Td
+(security concerns are addressed.) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 259.0868503937006153 Td
+(Suggested Redline: Consultant shall not access or use Cornell Data to create aggregated or de-identified data nor use Cornell) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.118 0.161 0.231 rg
+45.354330708661422 244.1199212598423856 Td
+(Data as training data in generative artificial intelligence systems unless expressly authorized in writing by Cornell.) Tj
+ET
+0.8 0.84 0.88 RG
+0.4251968503937008 w
+39.6850393700787407 214.9797637795273886 m
+555.5949606299211609 214.9797637795273886 l
+S
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260605191238+05'00')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000020661 00000 n 
+0000022494 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000006894 00000 n 
+0000007031 00000 n 
+0000014080 00000 n 
+0000014217 00000 n 
+0000020730 00000 n 
+0000020855 00000 n 
+0000020986 00000 n 
+0000021120 00000 n 
+0000021258 00000 n 
+0000021382 00000 n 
+0000021511 00000 n 
+0000021643 00000 n 
+0000021779 00000 n 
+0000021907 00000 n 
+0000022034 00000 n 
+0000022163 00000 n 
+0000022296 00000 n 
+0000022398 00000 n 
+0000022746 00000 n 
+0000022832 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <E634953E4640C8593EB9590A8F305DD0> <E634953E4640C8593EB9590A8F305DD0> ]
+>>
+startxref
+22936
+%%EOF
